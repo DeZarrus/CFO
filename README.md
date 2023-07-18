@@ -21,7 +21,7 @@ This is a recommendation page for CFO laptops
 
 
 ## Laptop Option 3: [ApoloSign](https://www.amazon.com/dp/B0C3LNNRJS?tag=track-ect-usa-1224787-20&linkCode=osi&th=1&psc=1)
-![Additional Recommended Laptop](additional_laptop_image.jpg)
+![Additional Recommended Laptop](laptop3.jpg)
 
 **Primary Resources:**
 - CPU Model: [Celeron]
