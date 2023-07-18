@@ -28,7 +28,7 @@ This is a recommendation page for CFO laptops
 - Number of Processors: [2.8 MHz celeron]
 - RAM: [12 GB]
 - Hard Drive Storage: [512 GB ] 
-**Reasons to Consider Option 3:**
+**Reasons to Consider Apolosign:**
 1. High Performance and Efficiency: Apolosign features a powerful CPU with a high benchmark score, offering exceptional performance for demanding tasks and multitasking.
 2. Full HD Display: Apolosign comes with a full HD display, providing sharp and vibrant visuals for enhanced viewing experience.
 3. Versatile Connectivity: Apolosign offers a wide range of connectivity options, including USB-C, HDMI, and multiple USB ports, allowing for seamless connectivity with various devices.
