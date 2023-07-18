@@ -2,7 +2,7 @@
 This is a recommendation page for CFO laptops
 
 ## Laptop Option 1: [Lenovo Athlon Silver](https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746)
-![CFO's Recommended Laptop](laptop1.jpg)
+![CFO's Recommended Laptop](laptop1.jpeg)
 
 **Primary Resources:**
 - CPU Model: [AMD Athlon]
